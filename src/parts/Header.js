@@ -12,7 +12,7 @@ export default function Header(props) {
           <div className="brand">
             <h1 className="m-0">
               <Link to="/">
-                <img src={Logo} alt="Cube" width="32" height="32" />
+                <img src={Logo} alt="Cube" width="32" height="32" /> 
               </Link>
             </h1>
           </div>
